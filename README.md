@@ -24,3 +24,6 @@ IOS, ordering system, restaurant
 (3)订单查询
 用户完成订餐信息之后，可以查询订单状态。<br />
 ![](http://img-menlon.oss-cn-shenzhen.aliyuncs.com/giveyoourhand/%E5%B8%AE5%E5%90%A7%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BA%E6%96%87-%20%E9%99%88%E6%9F%8F%E6%88%9014487.png)
+<br />
+##1.w 服务器登录
+添加外卖店的商品信息,处理订单
